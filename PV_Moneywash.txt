@@ -1,2 +1,2 @@
-{"version":"1.0.0","news":"The Script him self"}
 {"version":"1.0.1","news":"Replace the Server.lua / New Webhooks"}
+{"version":"1.0.0","news":"The Script him self"}
