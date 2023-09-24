@@ -1,2 +1,1 @@
 {"version":"1.0.1","news":"clientconfig: Notify Function replace"}
-{"version":"1.0.0","news":"The Script him self"}
