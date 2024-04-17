@@ -1,2 +1,2 @@
+{"version":"1.5","news":"The Scripweqwet him self"}
 {"version":"1.0","news":"The Script him self"}
-{"version":"1.5","news":"The Script him self"}
